@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2019
 ** my_macro_abs.h
 ** File description:
-** 
+**
 */
 
 #include <stdio.h>
@@ -10,5 +10,5 @@
 
 int main(void)
 {
-        printf("%d", ABS(-10));
+    printf("%d", ABS(-10));
 }
