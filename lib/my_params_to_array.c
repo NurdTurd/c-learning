@@ -5,10 +5,9 @@
 **
 */
 
-struct info_param *my_params_to_array(int ac, char **av)
-{
-    int length;
-    char *str;
-    char *copy;
-    char **word_array;
+struct info_param *my_params_to_array(int ac, char **av) {
+  int length;
+  char *str;
+  char *copy;
+  char **word_array;
 }
