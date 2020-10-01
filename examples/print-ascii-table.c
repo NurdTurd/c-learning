@@ -1,5 +1,5 @@
 //Program to print ASCII table.
- 
+
 #include <stdio.h>
 int main()
 {
