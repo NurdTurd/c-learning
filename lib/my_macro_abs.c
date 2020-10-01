@@ -5,10 +5,7 @@
 **
 */
 
-#include <stdio.h>
 #include "include/my_macro_abs.h"
+#include <stdio.h>
 
-int main(void)
-{
-    printf("%d", ABS(-10));
-}
+int main(void) { printf("%d", ABS(-10)); }
